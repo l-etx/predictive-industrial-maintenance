@@ -1,0 +1,6 @@
+Problem statement
+
+Industrial machines generate sensor data during operation. 
+Failures are expensive because they cause downtime, maintenance costs, and productivity loss. 
+The purpose of this project is to use machine learning to predict failures from operational 
+sensor data so maintenance can be performed proactively.
