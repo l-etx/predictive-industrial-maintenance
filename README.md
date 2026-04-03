@@ -104,21 +104,6 @@ jupyter lab
 
 ---
 
-## Status
-
-Work in progress. Completed stages will be checked off as the project advances.
-
-- [ ] Data cleaning and validation
-- [ ] Exploratory data analysis
-- [ ] Feature engineering
-- [ ] Baseline modeling
-- [ ] XGBoost modeling
-- [ ] Evaluation report
-- [ ] SHAP explainability analysis
-- [ ] Results summary
-
----
-
 ## Dataset Reference
 
 Matzka, S. (2020). *AI4I 2020 Predictive Maintenance Dataset*. UCI Machine Learning Repository.
